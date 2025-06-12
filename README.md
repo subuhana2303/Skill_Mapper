@@ -1,10 +1,6 @@
 # 🚀 SkillMapper — AI-Powered Career Roadmap & Resume Analyzer  
   
-[![Made by Subuhana B](https://img.shields.io/badge/MADE%20BY-Subuhana%20B-blueviolet)](https://github.com/subuhana2303)  
-[![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)  
-[![Deploy with Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-black?logo=vercel)]()  
-[![Python Flask](https://img.shields.io/badge/Backend-Flask-blue)]()  
-[![Streamlit Ready](https://img.shields.io/badge/Streamlit-Ready-orange)]()  
+[![Made by Subuhana B](https://img.shields.io/badge/MADE%20BY-Subuhana%20B-blueviolet)](https://github.com/subuhana2303)  [![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)  [![Deploy with Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-black?logo=vercel)]()  [![Python Flask](https://img.shields.io/badge/Backend-Flask-blue)]()  [![Streamlit Ready](https://img.shields.io/badge/Streamlit-Ready-orange)]()  
 > ✨ AI meets career guidance — Built for students, job seekers, and future engineers.  
 ---
 
