@@ -1,0 +1,10 @@
+{
+  "frontend": ["html", "css", "javascript", "react", "vue", "angular", "bootstrap"],
+  "backend": ["python", "flask", "django", "nodejs", "java", "php", "express"],
+  "database": ["mysql", "postgresql", "mongodb", "sqlite"],
+  "devops": ["docker", "kubernetes", "jenkins", "aws", "gcp", "azure", "linux"],
+  "data_analysis": ["excel", "pandas", "numpy", "tableau", "powerbi", "matplotlib"],
+  "machine_learning": ["scikit-learn", "keras", "pytorch", "tensorflow", "transformers", "sbert"],
+  "mobile": ["flutter", "react native", "android", "ios", "dart", "kotlin", "swift"],
+  "design": ["figma", "adobe xd", "sketch", "wireframing", "prototyping", "ui", "ux"]
+}

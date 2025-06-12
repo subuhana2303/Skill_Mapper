@@ -1,0 +1,101 @@
+/* main.css — Signature StyleSheet for SkillMapper */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f9fafe;
+  color: #2c3e50;
+  line-height: 1.6;
+}
+
+.page {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.07);
+}
+
+h1, h2, h3 {
+  color: #34495e;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.1rem;
+  margin-bottom: 1.2rem;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+input[type="file"],
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  margin-bottom: 1.2rem;
+  border: 1px solid #dfe6e9;
+  border-radius: 10px;
+  background: #f8f9fa;
+  font-size: 1rem;
+}
+
+button,
+.btn-download {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #0066ff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+  text-decoration: none;
+  text-align: center;
+}
+
+button:hover,
+.btn-download:hover {
+  background-color: #004bbd;
+}
+
+.upload-section,
+.skill-list,
+.role-result,
+.roadmap {
+  margin-bottom: 2rem;
+}
+
+.skill-badge {
+  display: inline-block;
+  background-color: #e0f7fa;
+  color: #00796b;
+  padding: 0.4rem 0.8rem;
+  margin: 0.25rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.roadmap-step {
+  border-left: 4px solid #0066ff;
+  padding: 0.8rem 1rem;
+  margin-bottom: 1rem;
+  background-color: #f1f9ff;
+  border-radius: 12px;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: #95a5a6;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}

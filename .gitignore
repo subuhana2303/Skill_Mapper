@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / dependency files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+# Environment folders
+.env
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Build output
+build/
+dist/
+
+# Flask cache / DB
+instance/
+*.db
+*.sqlite3
+
+# React build
+frontend/build/
+
+# Model files
+*.pkl
+
+# Editor/IDE configs
+.vscode/
+.idea/
+
+# Python egg
+*.egg-info/
+
+# Backup files
+*.bak

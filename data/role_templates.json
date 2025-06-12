@@ -1,0 +1,115 @@
+{
+  "Frontend Developer": {
+    "title": "Frontend Developer",
+    "weeks": [
+      {
+        "week": 1,
+        "focus": "HTML & CSS",
+        "resources": [
+          "https://developer.mozilla.org/en-US/docs/Learn/HTML",
+          "https://developer.mozilla.org/en-US/docs/Learn/CSS"
+        ]
+      },
+      {
+        "week": 2,
+        "focus": "JavaScript Basics",
+        "resources": [
+          "https://javascript.info/",
+          "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"
+        ]
+      },
+      {
+        "week": 3,
+        "focus": "React",
+        "resources": [
+          "https://reactjs.org/docs/getting-started.html",
+          "https://www.youtube.com/watch?v=bMknfKXIFA8"
+        ]
+      },
+      {
+        "week": 4,
+        "focus": "Deploy on Vercel",
+        "resources": [
+          "https://vercel.com/docs",
+          "https://www.freecodecamp.org/news/deploy-react-app-with-vercel/"
+        ]
+      }
+    ]
+  },
+
+  "Backend Developer": {
+    "title": "Backend Developer",
+    "weeks": [
+      {
+        "week": 1,
+        "focus": "Python Basics",
+        "resources": [
+          "https://docs.python.org/3/tutorial/",
+          "https://www.learnpython.org/"
+        ]
+      },
+      {
+        "week": 2,
+        "focus": "Flask Web Framework",
+        "resources": [
+          "https://flask.palletsprojects.com/en/2.0.x/",
+          "https://www.youtube.com/watch?v=Z1RJmh_OqeA"
+        ]
+      },
+      {
+        "week": 3,
+        "focus": "REST APIs",
+        "resources": [
+          "https://realpython.com/flask-connexion-rest-api/",
+          "https://www.postman.com/resources/"
+        ]
+      },
+      {
+        "week": 4,
+        "focus": "Database Integration",
+        "resources": [
+          "https://www.sqlitetutorial.net/",
+          "https://www.mongodb.com/docs/"
+        ]
+      }
+    ]
+  },
+
+  "Machine Learning Engineer": {
+    "title": "Machine Learning Engineer",
+    "weeks": [
+      {
+        "week": 1,
+        "focus": "Python + NumPy & Pandas",
+        "resources": [
+          "https://numpy.org/learn/",
+          "https://pandas.pydata.org/docs/"
+        ]
+      },
+      {
+        "week": 2,
+        "focus": "Scikit-learn",
+        "resources": [
+          "https://scikit-learn.org/stable/user_guide.html",
+          "https://www.youtube.com/watch?v=0Lt9w-BxKFQ"
+        ]
+      },
+      {
+        "week": 3,
+        "focus": "Deep Learning (Keras/PyTorch)",
+        "resources": [
+          "https://keras.io/",
+          "https://pytorch.org/tutorials/"
+        ]
+      },
+      {
+        "week": 4,
+        "focus": "NLP & Transformers",
+        "resources": [
+          "https://huggingface.co/course/",
+          "https://www.sbert.net/"
+        ]
+      }
+    ]
+  }
+}
