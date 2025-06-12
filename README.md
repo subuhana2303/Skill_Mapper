@@ -39,9 +39,19 @@ You can now open **SkillMapper** in your browser and start using it!
 
 ---
 
-## 📸 Demo Screenshot
+## 🎯 Demo Preview
 
-![SkillMapper Demo](./src/assets/demo.png)
+![SkillMapper Demo]![frontlook](https://github.com/user-attachments/assets/2fc9bb26-ff04-458a-81dd-2bd01027fce7)
+
+
+
+---
+
+
+## 📽️ Watch Demo Video
+
+👉 [Click to Watch Full Demo](https://example.com/demo.mp4)
+
 
 ---
 
