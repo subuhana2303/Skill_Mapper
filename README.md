@@ -1,4 +1,4 @@
-# 🚀 SkillMapper — AI-Powered Career Roadmap & Resume Analyzer  
+![image](https://github.com/user-attachments/assets/4cab00f6-ee08-4b54-b3aa-3eee24fa85f7)# 🚀 SkillMapper — AI-Powered Career Roadmap & Resume Analyzer  
   
 [![Made by Subuhana B](https://img.shields.io/badge/MADE%20BY-Subuhana%20B-blueviolet)](https://github.com/subuhana2303)  [![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)  [![Deploy with Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-black?logo=vercel)]()  [![Python Flask](https://img.shields.io/badge/Backend-Flask-blue)]()  [![Streamlit Ready](https://img.shields.io/badge/Streamlit-Ready-orange)]()  
 > ✨ AI meets career guidance — Built for students, job seekers, and future engineers.  
@@ -58,6 +58,14 @@ You can now open **SkillMapper** in your browser and start using it!
 
 ---
 
+
+## 🎬 Demo image
+
+![Screenshot 2025-06-12 235654](https://github.com/user-attachments/assets/233db5e3-016a-4af6-bea7-e9e03443301f)
+
+
+---
+
 ## 🎬 Demo Videos
 
 ▶️ [SkillMapper Resume Analyzer — Demo 1](https://github.com/user-attachments/assets/98c6a85c-5418-4dbf-a089-7557d268cec6)  
@@ -65,9 +73,6 @@ You can now open **SkillMapper** in your browser and start using it!
 ▶️ [Roadmap Generator — Demo 2](https://github.com/user-attachments/assets/8d5bf967-98a5-4441-9ce3-41764b70cf43)
 
 ---
-
-## 🛠️ Project Structure
-
 
 
 ## 🛠️ Project Structure
