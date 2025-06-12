@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/98c6a85c-5418-4dbf-a089-7557d268cec6
+
+https://github.com/user-attachments/assets/8d5bf967-98a5-4441-9ce3-41764b70cf43
 # 🚀 SkillMapper — AI-Powered Career Roadmap & Resume Analyzer
 
 [![Made by Subuhana B](https://img.shields.io/badge/MADE%20BY-Subuhana%20B-blueviolet)](https://github.com/subuhana2303)
@@ -49,7 +53,8 @@ You can now open **SkillMapper** in your browser and start using it!
 
 ## 📽️ Watch Demo Video
 
-👉 [Click to Watch Full Demo](https://example.com/demo.mp4)
+👉 [Click to Watch Full Demo](Uploading Screen Recording 2025-06-12 232938.mp4…
+)
 
 
 ---
