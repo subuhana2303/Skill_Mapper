@@ -1,9 +1,9 @@
 # 🚀 SkillMapper — AI-Powered Career Roadmap & Resume Analyzer
 
-[![Made by Subuhana B](https://img.shields.io/badge/MADE%20BY-Subuhana%20B-blueviolet)](https://github.com/subuhana2303)
-[![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
-[![Deploy with Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-black?logo=vercel)]()
-[![Python Flask](https://img.shields.io/badge/Backend-Flask-blue)]()
+[![Made by Subuhana B](https://img.shields.io/badge/MADE%20BY-Subuhana%20B-blueviolet)](https://github.com/subuhana2303)  
+[![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)  
+[![Deploy with Vercel](https://img.shields.io/badge/Frontend-Deployed%20on%20Vercel-black?logo=vercel)]()  
+[![Python Flask](https://img.shields.io/badge/Backend-Flask-blue)]()  
 [![Streamlit Ready](https://img.shields.io/badge/Streamlit-Ready-orange)]()
 
 > ✨ AI meets career guidance — Built for students, job seekers, and future engineers.
@@ -32,28 +32,10 @@ Built using:
 
 Once you start both frontend and backend:
 
-- 🌐 Frontend runs at: [`http://localhost:3000`](http://localhost:3000)
-- 🧠 Backend runs at: [`http://localhost:5000`](http://localhost:5000)
+- 🌐 Frontend runs at: [`http://localhost:3000`](http://localhost:3000)  
+- 🧠 Backend runs at: [`http://localhost:5000`](http://localhost:5000)  
 
 You can now open **SkillMapper** in your browser and start using it!
-
----
-
-## 🎯 Demo Preview
-
-
-![Screenshot 2025-06-12 221343](https://github.com/user-attachments/assets/92f86481-7bea-4b22-8c89-fc3fb905402d)
-
----
-
-
-### 🎬 Demo Videos
-
-▶️ [SkillMapper Resume Analyzer — Demo 1](https://github.com/user-attachments/assets/98c6a85c-5418-4dbf-a089-7557d268cec6)
-
-▶️ [Roadmap Generator — Demo 2](https://github.com/user-attachments/assets/8d5bf967-98a5-4441-9ce3-41764b70cf43)
-
-
 
 ---
 
@@ -72,15 +54,27 @@ You can now open **SkillMapper** in your browser and start using it!
 
 ## 💼 Features
 
-- 📝 Upload Resume (PDF) or enter skills manually  
-- 🔍 Extracts & parses resume content  
-- 🤖 AI-based Role Matching  
-- 📚 Smart Roadmap Generator  
-- 📥 Download roadmap as a PDF  
-- 🎯 Clean, professional UI/UX  
-- 🧑‍🎓 Tailored for student/early-career engineers  
+- 📝 Upload Resume (PDF) or enter skills manually    
+- 🔍 Extracts & parses resume content    
+- 🤖 AI-based Role Matching    
+- 📚 Smart Roadmap Generator    
+- 📥 Download roadmap as a PDF    
+- 🎯 Clean, professional UI/UX    
+- 🧑‍🎓 Tailored for student/early-career engineers    
 
 ---
+
+## 🎬 Demo Videos
+
+▶️ [SkillMapper Resume Analyzer — Demo 1](https://github.com/user-attachments/assets/98c6a85c-5418-4dbf-a089-7557d268cec6)  
+
+▶️ [Roadmap Generator — Demo 2](https://github.com/user-attachments/assets/8d5bf967-98a5-4441-9ce3-41764b70cf43)
+
+---
+
+## 🛠️ Project Structure
+
+
 
 ## 🛠️ Project Structure
 
