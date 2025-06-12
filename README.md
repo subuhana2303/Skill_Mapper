@@ -61,7 +61,7 @@ You can now open **SkillMapper** in your browser and start using it!
 
 ## 🎬 Demo image
 
-![Screenshot 2025-06-12 235654](https://github.com/user-attachments/assets/233db5e3-016a-4af6-bea7-e9e03443301f)
+        ![Screenshot 2025-06-12 235654](https://github.com/user-attachments/assets/233db5e3-016a-4af6-bea7-e9e03443301f)
 
 
 ---
